@@ -8,6 +8,7 @@ Two Important functions from AHK : ScreenCapture, GetURL, varize (remove illegal
 
 ;For GetURL Function
 ;test comment
+;more test
 
 
 ModernBrowsers := "ApplicationFrameWindow,Chrome_WidgetWin_0,Chrome_WidgetWin_1,Maxthon3Cls_MainFrm,MozillaWindowClass,Slimjet_WidgetWin_1"
